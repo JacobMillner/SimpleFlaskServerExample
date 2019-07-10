@@ -2,7 +2,10 @@
 This is a simple example of a Flask server. It responds to GET requests to root with a JSON timestamp in UTC ISO format.
 
 # Instructions
+First clone this repo.
+
 For Linux:
+
 Make sure you have [Python 3](https://docs.python-guide.org/starting/install3/linux/) and [Flask](http://flask.pocoo.org/docs/1.0/installation/) installed.
 Tell your terminal which application to work with by exporting the FLASK_APP environment variable.
 ```
@@ -15,6 +18,7 @@ $ flask run
 ```
 
 For Windows:
+
 Make sure you have [Python 3](https://www.python.org/downloads/windows/) and [Flask](http://flask.pocoo.org/docs/1.0/installation/) installed.
 In PowerShell set the environment variable for FLASK_APP.
 ```

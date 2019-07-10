@@ -4,6 +4,8 @@ This is a simple example of a Flask server. It responds to GET requests to root 
 # Instructions
 First clone this repo.
 
+Next, setup the environment and run the server.
+
 For Linux:
 
 Make sure you have [Python 3](https://docs.python-guide.org/starting/install3/linux/) and [Flask](http://flask.pocoo.org/docs/1.0/installation/) installed.
